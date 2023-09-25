@@ -1,0 +1,17 @@
+<div class="home-container" style="background-image: url('assets/jobs.png');">
+<form class="container">
+  <div class="content">
+   <h4 style="color: brown;"> Please enter the following information, are mandatory</h4>
+      <div class="form-group" >
+        <label for="exampleInputEmail1">Email address</label>
+        <input class="btn"  type="email" class="form-control" name="email" [(ngModel)]="email">
+     
+      </div>
+       <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+       <input type="password" class="form-control" name="password" [(ngModel)]="password">
+       </div><br>
+    <button id="btn"  type="submit" style="background-color: rgb(225, 177, 132); color: rgb(153, 23, 108);" class="btn btn-primary" (click)="logIn()">Log In</button>
+  </div>
+  </form>
+</div>

@@ -1,0 +1,23 @@
+{
+    "resto": [
+      {
+        "Id": 1,
+        "Name": "Huda ALkhatri",
+        "Adress": "Bahla",
+        "Gmail": "huda@gmail.com"
+      },
+      {
+        "Id": 2,
+        "Name": "Samah ALsumri",
+        "Adress": "Ibri",
+        "Gmail": "Samah@gmail.com"
+      },
+      {
+        "Id": 3,
+        "Name": "Ahmed ALabri",
+        "Adress": "ALhamra",
+        "Gmail": "Ahmed@gmail.com"
+      }
+    ]
+  
+  }
